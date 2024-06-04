@@ -1,0 +1,14 @@
+.main-menu-option {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  justify-content: center;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  width: 20rem;
+  height: 2rem;
+  border-radius: 20px;
+  border-color: rgb(0, 0, 0);
+  border: 1px solid;
+  background-color: rgb(140, 254, 254);
+}
