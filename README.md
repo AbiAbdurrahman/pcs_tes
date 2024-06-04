@@ -36,3 +36,8 @@ di sisi frontend, dan semoga preferensi dan kekurangan saya ini bisa diterima
 5. `php artisan serve`
 6. Di pcs_frontend, `npm install`
 7. `npm run start`
+
+## Asumsi
+
+- Di deskripsi tugas, saya diminta untuk membuat kondisi dimana setelah 3 jam, status order dibuat inactive. Saya hanya ingin bergantung pada timestamp tanpa perlunya status di backend, tapi saya belum sampai ke situ
+- Saya setup default value untuk kode kuponnya ke `BORONG123` untuk kupon per item di atas 50k, dan `BONUS234` untuk kupon per 100k total amount.
